@@ -5,6 +5,8 @@
 | → [Completed Notebook](https://github.com/wy-chan/Machine-Learning-with-Python/blob/main/ML0101EN_SkillUp_FinalAssignment.jupyterlite_Completed.ipynb) |
 | --- |
 
+<br>
+
 ---
 
 ### 1. Splitting the dataset into training and testing data for regression (3 marks)
@@ -61,6 +63,6 @@
 |---|
 ---
 
----
+
 
 <p align="center">- <a href="#top">Back to top</a> -</p>
